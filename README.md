@@ -4,6 +4,8 @@ Welcome to the official repository of the IEEE IES Hyderabad Hubs Initiative, In
 
 This repository showcases workshops, technical lectures, seminars, outreach programs, and academic activities conducted across various colleges and institutions in India under the IEEE IES Hubs and Nodes Initiative.
 
+---
+
 ## About the Initiative
 
 The IEEE IES Hyderabad Hub collaborates with multiple nodes, student branches, chapters, and institutions to promote:
@@ -13,6 +15,8 @@ The IEEE IES Hyderabad Hub collaborates with multiple nodes, student branches, c
 - Emerging technology awareness
 - Research and innovation culture
 - Professional networking opportunities
+
+---
 
 ## Activities Conducted
 
@@ -24,8 +28,11 @@ The IEEE IES Hyderabad Hub collaborates with multiple nodes, student branches, c
 - Research Awareness Programs
 - Student Outreach Activities
 
+---
+
 ## Repository Structure
 
+```text
 IEEE-IES-Hyderabad-Hubs-Initiative/
  ├── README.md
  ├── Event-1/

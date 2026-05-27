@@ -30,7 +30,7 @@ This event is scheduled to be featured in the **IEEE IES ITEN Newsletter** (publ
 ## Event Photo
 ![Kochi FDP Group Photo](../assets/kochi_event.png)
 
-*(Place the actual group photo in your repo under `assets/kochi_event.jpg`)*
+*(Place the actual group photo in this repo under `assets/kochi_event.jpg`)*
 
 ---
 

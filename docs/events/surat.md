@@ -28,7 +28,7 @@ This event is scheduled to be featured in the **IEEE IES ITEN Newsletter** (publ
 ## Event Photo
 ![Surat Conclave Group Photo](../assets/surat_event.png)
 
-*(Place the actual group photo in your repo under `assets/surat_event.jpg`)*
+*(Place the actual group photo in this repo under `assets/surat_event.jpg`)*
 
 ---
 

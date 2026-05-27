@@ -25,7 +25,8 @@ This activity significantly strengthened IEEE IES visibility in the Chennai regi
 ---
 
 ## Featured
-The Chennai event was highlighted in the **IEEE IES ITEN Newsletter**.
+The Chennai event was highlighted in the **IEEE IES ITEN Newsletter**. 
+[Read the Chennai Event Article](https://iten.ieee-ies.org/)  
 
 ---
 

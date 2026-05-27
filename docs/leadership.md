@@ -2,6 +2,7 @@
 
 ## Dr. Tripura Pidikiti
 ![Dr. Tripura Pidikiti](./assets/leadership_tripura.png)
+
 **Hyderabad Hub Leader – IEEE IES Hubs & Nodes Initiative**  
 **AdCom Member-at-Large, IEEE Industrial Electronics Society (IES), RVR & JC College of Engineering, Guntur**
 

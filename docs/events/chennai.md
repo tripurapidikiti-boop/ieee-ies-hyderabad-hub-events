@@ -30,7 +30,7 @@ The Chennai event was highlighted in the **IEEE IES ITEN Newsletter**.
 ---
 
 ## Event Photo
-![Chennai Event Group Photo](../assets/chennai_event.jpg)
+![Chennai Event Group Photo](../assets/chennai_event.png)
 
 *(Place the actual group photo in your repo under `assets/chennai_event.jpg`)*
 
